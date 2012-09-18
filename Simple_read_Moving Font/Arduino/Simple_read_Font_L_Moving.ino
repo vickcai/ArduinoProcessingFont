@@ -1,3 +1,6 @@
+/ Cai zhixiang A0087731Y
+Using potentiometer to control the moving L
+
 /*
   Analog Read/Write 
   Turns on an LED while button is pressed, then off if button is released.
