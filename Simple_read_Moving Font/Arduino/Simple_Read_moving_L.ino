@@ -1,5 +1,4 @@
-/ Cai zhixiang A0087731Y
-Using potentiometer to control the moving L
+// Cai zhixiang A0087731Y Using potentiometer to control the moving L
 
 /*
   Analog Read/Write 
